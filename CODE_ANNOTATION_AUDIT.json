@@ -1,0 +1,12 @@
+{
+  "note": "AI disclosure comments were prepended post-experiment; executable statements unchanged. Original frozen file hashes are preserved in METHODOLOGY_FROZEN.json; the new annotated file hashes are here.",
+  "original_source_hashes": {
+    "src/models.py": "72dd752c87b062558646df1fb1123de6ec00f0608777516af651bd484f78866f",
+    "src/run_experiment.py": "cd9bbd352203630de03ef3eca76cb635222fbefc1f6ea93298a97e29b61737ff",
+    "data/car.data": "b703a9ac69f11e64ce8c223c0a40de4d2e9d769f7fb20be5f8f2e8a619893d83"
+  },
+  "annotated_source_hashes": {
+    "src/models.py": "2b682dd92969ff8bdaa73bd6ce210cb89e019fc5693b77bd81c1d58c39745968",
+    "src/run_experiment.py": "8a8738128d56f2a42a313ee0bf15481a15db23001df8d23e8aae3cb04a1b36c6"
+  }
+}

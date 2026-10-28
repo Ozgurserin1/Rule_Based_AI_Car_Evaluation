@@ -1,0 +1,28 @@
+{
+  "frozen_before_final_test": true,
+  "frozen_date": "2026-10-27",
+  "method": "No retuning after final test. Same default parameters in Step 5.",
+  "seed": 42,
+  "data_split": "Stratified 80% dev, 20% holdout. Dev 75% train, 25% validation. Refit on 80% development for holdout test.",
+  "flat": {
+    "max_conditions": 3,
+    "min_support": 8,
+    "min_purity": 0.72,
+    "max_rules": 65
+  },
+  "hierarchical": "Predefined mappings in src/models.py; terminal lookup majority from dev data.",
+  "primary_metric": "macro-F1",
+  "secondary_metrics": [
+    "accuracy",
+    "macro-precision",
+    "macro-recall",
+    "per-class recall",
+    "confusion matrix",
+    "rule-count"
+  ],
+  "sha256": {
+    "src/models.py": "72dd752c87b062558646df1fb1123de6ec00f0608777516af651bd484f78866f",
+    "src/run_experiment.py": "cd9bbd352203630de03ef3eca76cb635222fbefc1f6ea93298a97e29b61737ff",
+    "data/car.data": "b703a9ac69f11e64ce8c223c0a40de4d2e9d769f7fb20be5f8f2e8a619893d83"
+  }
+}

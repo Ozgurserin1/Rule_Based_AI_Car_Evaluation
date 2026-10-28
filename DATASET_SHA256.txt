@@ -1,0 +1,2 @@
+Car Evaluation Dataset original upload (Car Evaluation Dataset(2).zip)
+car.data SHA-256: b703a9ac69f11e64ce8c223c0a40de4d2e9d769f7fb20be5f8f2e8a619893d83
