@@ -1,5 +1,4 @@
-# AI assistance disclosure: ChatGPT supported initial code development, review and documentation.
-# The research author must inspect, understand and verify these implementations and results.
+
 """Execute reproducible development-set checks; keep final holdout sealed by default."""
 import argparse
 import json
