@@ -24,6 +24,8 @@ Different rule-construction strategies and hand-designed intermediate features c
 ## Data attribution
 Bohanec, M. (1988) *Car Evaluation*. UCI Machine Learning Repository. https://doi.org/10.24432/C5JP48. Data licensed CC BY 4.0.
 
+## AI assistance disclosure
+ChatGPT supported Python code construction, drafting, review and project organisation. The author is responsible for source validation and submitted claims.
 
 
 ## Exploratory robustness analyses (post-hoc)

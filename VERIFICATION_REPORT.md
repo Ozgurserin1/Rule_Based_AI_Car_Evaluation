@@ -23,4 +23,4 @@ python run_additional.py
 python run_controlled.py
 ```
 
-**Next steps:** inspect the code and analysis personally, create a public GitHub repository, then update the research paper from these frozen outputs. GitHub publication and Overleaf conversion have **not** occurred.
+**Publication status (28 October 2026):** Public GitHub repository created and the initial 28-file commit `52c2471` pushed to `main`; `origin/main` synchronisation was verified clean. Repository: https://github.com/Ozgurserin1/Rule_Based_AI_Car_Evaluation . This corrected verification report belongs to the subsequent clean distribution archive and is NOT yet committed/pushed to GitHub. Overleaf conversion remains pending.
