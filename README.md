@@ -1,3 +1,4 @@
+![Rule-Based AI Research Cover](AI%20Car%20Acceptability_%20Flat%20vs%20Hierarchical.png)
 # Car Evaluation - Rule-Based AI Research (CPU5006)
 
 Two custom Python rule-based classifiers (flat sequential covering; hierarchical symbolic aggregation), evaluated on the UCI Car Evaluation Dataset.
