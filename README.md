@@ -1,4 +1,5 @@
 ![Rule-Based AI Research Cover](AI%20Car%20Acceptability_%20Flat%20vs%20Hierarchical.png)
+![Experimental Results](Experimental%20Results_%20Rules%20and%20Confusion%20Matrices%20%281%29.png)
 # Car Evaluation - Rule-Based AI Research (CPU5006)
 
 Two custom Python rule-based classifiers (flat sequential covering; hierarchical symbolic aggregation), evaluated on the UCI Car Evaluation Dataset.
