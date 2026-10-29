@@ -5,7 +5,7 @@
 Two custom Python rule-based classifiers (flat sequential covering; hierarchical symbolic aggregation), evaluated on the UCI Car Evaluation Dataset.
 
 ## Research integrity
-The final 346-row holdout was tested in Step 6; it is no longer untouched. **Do not retune models against its results.** The frozen methodology and original source hashes are recorded in `METHODOLOGY_FROZEN.json`. AI-assistance attribution comments were added to `src/*.py` after the final evaluation; `CODE_ANNOTATION_AUDIT.json` records the revised hashes. No executable statements were changed.
+The final 346-record holdout dataset was evaluated in Step 6 and is therefore no longer considered an untouched test set. The models must not be retuned based on these results. The finalised methodology and original source code hashes are documented in `METHODOLOGY_FROZEN.json`. Subsequent documentation updates are recorded in `CODE_ANNOTATION_AUDIT.json`. These updates did not modify any executable code or affect the experimental results.
 
 ## Setup and replication
 Requires Python 3.10+; from repository root:
