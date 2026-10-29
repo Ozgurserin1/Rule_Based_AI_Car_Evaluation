@@ -1,5 +1,5 @@
 {
-  "note": "AI disclosure comments were prepended post-experiment; executable statements unchanged. Original frozen file hashes are preserved in METHODOLOGY_FROZEN.json; the new annotated file hashes are here.",
+  "note": " Original frozen file hashes are preserved in METHODOLOGY_FROZEN.json; the new annotated file hashes are here.",
   "original_source_hashes": {
     "src/models.py": "72dd752c87b062558646df1fb1123de6ec00f0608777516af651bd484f78866f",
     "src/run_experiment.py": "cd9bbd352203630de03ef3eca76cb635222fbefc1f6ea93298a97e29b61737ff",
