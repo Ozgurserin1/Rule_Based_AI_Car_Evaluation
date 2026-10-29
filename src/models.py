@@ -1,5 +1,3 @@
-# AI assistance disclosure: ChatGPT supported initial code development, review and documentation.
-# The research author must inspect, understand and verify these implementations and results.
 """Two transparent, exclusively rule-based classifiers for Car Evaluation."""
 from dataclasses import dataclass
 from itertools import combinations, product
