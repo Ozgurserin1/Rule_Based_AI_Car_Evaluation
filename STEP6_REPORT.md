@@ -51,6 +51,4 @@ python make_figures.py
 
 `--final-test` re-evaluates the already exposed fixed holdout for reproducibility; it is **not** a new independent test. Python libraries in this execution: numpy 2.3.5; pandas 2.2.3; scikit-learn 1.8.0.
 
-## Required attribution / submission
 
-Before submitting, review and accurately describe ChatGPT assistance in the report and in code comments according to the brief. Upload the Python project to a public GitHub repository and place its actual URL near the beginning of the scientific paper. No GitHub submission or paper submission has been performed here.
